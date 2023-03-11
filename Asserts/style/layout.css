@@ -1,1 +1,70 @@
-/*Include the CSS Code Here*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif,Impact, 'Arial Narrow Bold', sans-serif;
+  }
+  .container_1 {
+    width: 100%;
+    background-color: rgba(38,90,91,255);
+    height: 600px;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    left: 0%;
+    display: inline-block;
+  }
+  .head-text{
+    padding-top: 20px;
+    font-size: xx-large;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .Main_1{
+    display: inline-block;
+    padding-top: 10%; 
+    padding-left:20%;
+    padding-bottom: 75px;
+  }
+  .nav_1{
+    display: inline-block;
+    position: absolute;
+    padding-top: 35px;
+    padding-left: 30px;
+  }
+  .nav_2{
+    display: inline-block;
+    position: absolute;
+    padding-top: 0%;
+    margin-left: 210%;
+  }
+  .btn-primary{
+    background-color:rgba(38,90,91,255) !important;
+    border-color:rgba(38,90,91,255) !important;
+  }
+  .btn-secondary{
+    background-color: #bb946e !important;
+    border-color: #bb946e !important;
+  }
+  .text_1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+  }
+  .imgs_left{
+    display:inline-block;
+    position: relative;
+    padding-left: 15px;
+    padding-top: 5px;
+  }
+  .imgs_right{
+    padding-top: 15px;
+    display:inline-block;
+    position: relative;
+    padding-left: 660px;
+  }
+  .Heading{
+    font-size: xx-large;
+    
+  }
